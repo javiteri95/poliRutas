@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.8.0_a43e0fede75978e4a429bc0c3973958631bf24ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_4788525246a404f1dab49c06f4b625a1e9b84120\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_8264802da814c39a677b9e77461bec16053e7101\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.8.0_b2dfc43f3af6b9d8a0dee14b9da16e210fe33a3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.8.0_183f6b77ca76eb096ddd4f69ad557399937c76bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_3b00a8d1ae854c365913fcc9b96e0cade14a6a16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.8.0_6726acd11d6ab4952cd9dc4b601756fba1764281\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_f8a456e46da2ca3c623a2cb74ad9ec7dc7398fc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_12faf23cd794aaffa97ad42de1823b01e7a63684\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_bae23bb48e781768c009630fcc71e33e38f8d1d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.8.0_6b486abb554c0299344efd1ab08890cbd8782082\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.8.0_fa80db8d938a13cd66fb654335bfde13bb5d4085\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\joset\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_f7c63a4db059b2805c986497280aa91167272a6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.8.0_790f160bff1cc6ea4558e6bc94921ae03e422ea3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_0406d23ab23626c1fcaf2a162b1f8bc0995f654f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.8.0_0d396a3db1801bf40e9c198afb2162427e0cb554\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_1a003ef0ad70c78bd544e092386976171d7954a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_c74686c5cfbe0427087f784349ad2de3bb4124e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.8.0_c6b24bfde883f57d0a0784d32a816c9e0ca84f7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_aba59fa7097abba278ffa947af9634a474c5c8cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_cc7be124d74851e513d068ba36481bfb42036b5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.8.0_057fb077500441dddb3ee55a2c93bcf80c27b048\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_89206323d5d6278ebd154da53dd762be44163860\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_09e9194a867aceced2f9ef2d6c3a74d2cfe09427\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.8.0_7722e2412ed1fa83f0aed398d82c7f1ed29bb142\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_0e937f0ce1c53d2ebab2165cdeb4a76c20931762\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_bc54a5fd66d9bfd26be0630fd7401257e995c6c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.8.0_026e9dd5528bff5feae6e988b547fcdbb2e2ece1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.8.0_bee05ae07d34e32370197878a49586d29b6c67cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_f2f2e29cf5a7ddf700114a061e40c06eb5742e7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_4c7bbeff5c951c4a6a9698407c2086703392227c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.8.0_a1429e451fd84cb9d7a98e38977c5ca05dfd9fd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_427d4d44294e0d45c6b553fb7db56279b847c4f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_840878b89f1a117396f8df43de35bb212150e15a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_0a0af42dd2dd86f4469f9aebdf0816682d3d52aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_61252b7ae969fc51d457d66580d337375d9f7ad8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_2c8bc62322ef3839f58c9fcd332ce802debd6381\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_e00afdf067e53f8b1c8d71c1d4bd66c88d682b26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_59ec1c3bdf473b9613b39c4e2b8b2138a745e45a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_85fcbb1b08d24e646fcde2190d1f9359b2e711d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.8.0_78374605aa496cf1db24d6617fbf57c6dedbda5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_841fe6a607a686701421e6670e516edab5bb0f3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.8.0_04b600a225be7c984dd68809510e91cc053ea832\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_e5b479bb15a078743e9816df6a521fd465d9f4d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_1fa3bc6f7a23ccb65fc75e0c5a8884c2337fa6ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.0_27afe31c33f9c010e53eb9b65b2bb05cb1de57e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_1f19f68c50d3afa5ff4a8c52bccd34738c1e716e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.8.0_b63370f8698ec495fdb039cbc04e4af1544911d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_bd5a1be77fa268b65c3879ba732a2023aac6a1c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_225b978fa6561c1433d2b90c69fbe61fe89c1579\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_d3de2aaa330687be7985e384b0ac62b850e67cf6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="687923dd1ebf0f3e877b8460185cde25b90bdf23">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9c18eb1dcb6c718bacfc83718e35965a78c1d83a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.8.0_21cdf4537d59e3c35c7bd55f17a1ac6f3d6c1d72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.8.0_033258b27e9d4ffbdb901918a19fa263b4bf7497\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.8.0_5de04b4bb06fb6b5ef1123c738114931d73355a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.8.0_df561276350df7bd2c675c1ee255715bd6bb718f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_ea5153dad5b4dacdab492f95b0965edd45370eca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.8.0_06e482758f8788b4d376b5947e4db568267abe1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_122b1308672cb36bf7b080e32c4012b680d94566\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.8.0_766a031a69140bdc417b0b78af85fa129302bee7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.8.0_fd9e2186462bb5f7f4392b211400a8ca88a073de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7585e108b40eee0e73355265f47baf1e83ec0c3">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1332b8f7db3f13a54c59183be150bd2994c7c167\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.8.0_6ad496ff6021222a8e85ee09bac7ad58b8a319fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_f232ca043476c4addcab19b50c7e03138ff9f090\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_b9879288fa8f22e318c84bf92d539eaa98658b60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_0815e4d1b8a1e4e60575cec2144c70b8310d9ae7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_301972bc38acbe547626ca832cdc26c53b7a917b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_727b0abf1b024aea0be0236e6a6956f89b16740b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_8c88f3a429c24c857b93badab2296c535ffda3ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.8.0_9b51e1ef3c5da21712bc78b22386117941b0489b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_0f649ed0541e5415cda6e4382a3e55e93a2183ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_cb78227d20e47addc0617e6f6325ac4161a203c5\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,86 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <ImageView
+        android:id="@+id/logoRutas"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/espol_logo"
+        android:layout_height="62dp" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:hint="Direccion1"
+            android:layout_width="wrap_content"
+            android:id="@+id/ruta1"
+            android:layout_gravity="center_horizontal"
+
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/aceptarRuta1"
+            style="?android:attr/buttonStyleSmall"
+            android:text="Aceptar"
+            />
+
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:hint="Direccion2"
+            android:layout_width="wrap_content"
+            android:id="@+id/ruta2"
+            android:layout_gravity="center_horizontal"
+
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/aceptarRuta2"
+            style="?android:attr/buttonStyleSmall"
+            android:text="Aceptar"
+            />
+
+
+
+
+    </LinearLayout>
+
+
+
+
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/map2"
+    android:name="com.google.android.gms.maps.SupportMapFragment"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    tools:context="com.example.joset.polirutas20.RoutesActivity" />
+
+
+
+
+</LinearLayout>
