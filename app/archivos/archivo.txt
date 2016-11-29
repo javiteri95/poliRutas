@@ -1,0 +1,5 @@
+edificio, latitudReal, longitudReal, latitudFicticia, longitudFicticia, seudonimos, imagen
+15A,-2.144615,-79.967794,-2.144615,-79.967794,[fiec vieja, vieja fiec],#
+24A,-2.145428,-79.965926,-2.145428,-79.965926,[fiec vieja, vieja fiec],#
+16C,-2.145376,-79.966924,-2.145376,-79.966924,[fiec vieja, vieja fiec],#
+

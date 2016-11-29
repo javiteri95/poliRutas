@@ -466,7 +466,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="687923dd1ebf0f3e877b8460185cde25b90bdf23">
+        sha1="05cecb69455b1185110bdf6b20b7e86a84b4daf8">
         <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9c18eb1dcb6c718bacfc83718e35965a78c1d83a\classes.dex" />
     </item>
     <item
@@ -556,7 +556,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="c7585e108b40eee0e73355265f47baf1e83ec0c3">
+        sha1="be62bbeb10e644ca655766e47b19c99dd92dbd7e">
         <dex dex="D:\Programacion\AndroidStudioProyects\poliRutas2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1332b8f7db3f13a54c59183be150bd2994c7c167\classes.dex" />
     </item>
     <item
