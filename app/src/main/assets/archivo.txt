@@ -1,5 +1,41 @@
-15A,-2.144615;-79.967794,-2.144630;-79.967804,fiec nueva:nueva fiec,#
-24A,-2.145428;-79.965926,-2.145428;-79.965926,fiec vieja:vieja fiec,#
-16C,-2.145376;-79.966924,-2.145376;-79.966924,laboratorios fiec;laboratorios de la fiec,#
+1,-2.147533;-79.964558,-2.147651;-79.964588,rectorado,rectorado
+1B,-2.147817;-79.963775,-2.147846;-79.963984,tesoreria,tesoreria
+2,-2.147548;-79.966151,-2.147610;-79.965786,biblioteca,biblioteca
+7,-2.146331;-79.964692,-2.146409;-79.964877,malicia:comedor,malicia
+9,-2.145983;-79.966307,-2.146023;-79.966149,fepol,fepol
+15A,-2.144615;-79.967794,-2.144777;-79.967233,fiec nueva:nueva fiec,fiec_nueva
+16A,-2.145771;-79.966790,-2.145870;-79.966592,laboratorios de la fiec:laboratorios fiec,lab_fiec
+16C,-2.145101;-79.967257,-2.144889;-79.967370,laboratorios de computacion:laboratorios de computacion de la fiec,lab_comp_fiec
+18B,-2.144752;-79.966353,-2.144862;-79.966141,laboratorio de ing mecanica:laboratorios de ing mecanica,lab_ing_mecanica
+19A,-2.145969;-79.965787,-2.146234;-79.965822,ict:edificio inteligente ict,ict
+20A,-2.145529;-79.965412,-2.145781;-79.965388,facultad de la tierra:facultad de ingenieria en ciencias de la tierra,fict
+20D,-2.146204;-79.965045,-2.146426;-79.965107,banco del pacifico:banco pacifico:banco:bienestar estudiantil,bienestar_estudiantil
+21,-2.147737;-79.968827,-2.147686;-79.968685,facultad de ciencias sociales y humanisticas:fen,
+24A,-2.145421;-79.965952,-2.145383;-79.966212,fiec vieja:aulas de la facultad electectrica:aulas ingenieria electrica:aulas fiec,fiec_vieja
+24C,-2.145016;-79.965839,-2.144834;-79.965767,aulas de mecanica,aulas_mecanica
+24D,-2.145831;-79.965582,-2.145713;-79.965566,aulas de ict,aulas_icm
+24E,-2.144202;-79.966297,-2.144553;-79.966200,aulas y labs de ing mecanica,
+25,-2.146461;-79.967109,-2.146534;-79.966972,gobierno inst fisica y matematica:departamento de fisica:departamento de matematicas,icm
+26,-2.146913;-79.967148,-2.146818;-79.967090,gobierno inst quimica y humanidades:departamento de quimica,icqm
+26A,-2.147529;-79.967890,-2.147350;-79.967846,auditorio iche,auditorio_iche
+27A,-2.146718;-79.967689,-2.146855;-79.967513,laboratorio de fisica:laboratorio de quimica,lab_fisca_y_quimica
+28,-2.146140;-79.964258,-2.146505;-79.964341,cema,cema
+30,-2.145177;-79.965049,-2.145129, -79.965197,arqueologia,arqueologia
+31,-2.148616;-79.967469,-2.148455;-79.967603,celex:basico nuevo:basico celex,celex
+32A,-2.146928;-79.966768,-2.146805;-79.966953,basico viejo,basico_viejo
+60,-2.146776;-79.962867,-2.147065;-79.963098,gobierno de maritima y c. del mar,fimcbor
+61,-2.146684;-79.963286,-2.146842;-79.963383,aulas maritima:maritima:narnia,aula_maritima
+62,-2.146625;-79.962734,-2.146743;-79.962873,laboratorio de acuicultura:csa,lab_acuicultura
+70,-2.145025;-79.964150,-2.145414;-79.964040,gimnasio:coliseo,coliseo
+74,-2.148773;-79.964967,-2.148652;-79.964860,ceproem,ceproem
+75A,-2.147291;-79.966992,-2.147245;-79.967105,caseta de fotocopias fcsh:cabana de copias,tesoreria_copia
+76,-2.145060, -79.966384,-2.145116;-79.966245,patio de comidas:cocacola:bar de mecanica,bar_mecanica
 FIEC,-2.145134;-79.967095,-2.145632;-79.968279:-2.146045;-79.966579:-2.145603;-79.966361:-2.145777;-79.965740:-2.145247;-79.965612:-2.144779;-79.966782:-2.143922;-79.967806
 FIMCP,-2.144339;-79.966041,-2.144695;-79.967007:-2.145305;-79.965416:-2.144056;-79.965195 :-2.143577;-79.966604
+FCNM,-2.147120;-79.967363,-2.148760;-79.968220:-2.149033;-79.967126:-2.146615;-79.966488:-2.146260;-79.966954:-2.146105;-79.968338:-2.146866;-79.968349:-2.147048;-79.967083:-2.147922;-79.967426
+FCSH,-2.147505;-79.968109,-2.147516;-79.969139:-2.148299;-79.968967:-2.148438;-79.968431:-2.147307;-79.967508:-2.147339;-79.967165:-2.147028;-79.967068:-2.146959;-79.968177
+FICT,-2.145728;-79.965279,-2.145881;-79.965797:-2.145270;-79.965499:-2.145581;-79.964490:-2.146010;-79.964688
+FIMCBOR,-2.146539;-79.962856,-2.146911;-79.963547:-2.147107;-79.962639:-2.146083;-79.962293:-2.145981;-79.962615:-2.146345;-79.963370
+EDCOM,-2.143777;-79.962331,-2.144313;-79.962711:-2.143000;-79.962325:-2.143708;-79.961043
+
+

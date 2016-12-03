@@ -35,7 +35,7 @@ public class txtParser {
             String linea = logFile.readLine();
             while (linea!= null){
                 lector = linea.split(",");
-                if (lector[0].equals(name) && (lector.length ==3) ){ //condicion sea facultad
+                if (lector[0].toLowerCase().equals(name.toLowerCase()) && (lector.length ==3) ){ //condicion sea facultad
                     String[] temporal1;
                     String coordenadaCentral = lector[1];
 
@@ -62,7 +62,11 @@ public class txtParser {
                     String[] temporal4;
                     String seudonimos = lector[3];
                     temporal4 = seudonimos.split(":");
-                    if (Arrays.asList(temporal4).contains(name) || lector[0].equals(name)){
+                    LinkedList<String> seudonimosL = new LinkedList<>();
+                    for (String seudonimo: temporal4) {
+                        seudonimosL.add(seudonimo.toLowerCase());
+                    }
+                    if (seudonimosL.contains(name.toLowerCase()) || lector[0].toLowerCase().equals(name.toLowerCase())){
                         String[] temporal5;
                         String[] temporal6;
                         temporal5 = lector[1].split(";");
@@ -70,12 +74,12 @@ public class txtParser {
 
                         Coordenada real = new Coordenada(Double.parseDouble(temporal5[0]), Double.parseDouble(temporal5[1]));
                         Coordenada fict =new Coordenada(Double.parseDouble(temporal6[0]), Double.parseDouble(temporal6[1]));
-                        LinkedList<String> seudonimosL = new LinkedList<>();
+                        LinkedList<String> seudonimosL2 = new LinkedList<>();
                         for (int i = 0 ; i< temporal4.length; i++){
                             seudonimosL.add(temporal4[i]);
                         }
 
-                        Edificio edificio = new Edificio(lector[0], real, fict,seudonimosL, lector[lector.length-1]);
+                        Edificio edificio = new Edificio(lector[0], real, fict,seudonimosL2, lector[lector.length-1]);
                         return edificio;
                     }
 

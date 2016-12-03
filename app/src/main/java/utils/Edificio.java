@@ -14,6 +14,8 @@ public class Edificio {
     private LinkedList<String> seudon;
     private String image;
 
+    public Edificio() {
+    }
 
     public Edificio(String name, Coordenada realLocation) {
         this.name = name;

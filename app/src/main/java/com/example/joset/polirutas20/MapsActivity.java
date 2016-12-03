@@ -8,9 +8,13 @@ import android.net.Uri;
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
 import android.support.v7.app.AlertDialog;
+import android.view.LayoutInflater;
 import android.view.View;
+import android.view.Window;
+import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageView;
 import android.widget.Toast;
 
 import com.google.android.gms.appindexing.Action;
@@ -23,6 +27,7 @@ import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
+import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.android.gms.maps.model.Polygon;
 import com.google.android.gms.maps.model.PolygonOptions;
@@ -37,7 +42,7 @@ import utils.Edificio;
 import utils.Facultad;
 import utils.Regex;
 
-public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
+public class MapsActivity extends FragmentActivity implements OnMapReadyCallback,GoogleMap.OnMarkerClickListener {
 
     private GoogleMap mMap;
     Button aceptarMapsActivity;
@@ -85,6 +90,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
         aceptarMapsActivity = (Button) findViewById(R.id.AceptarMaps);
         direccion = (EditText) findViewById(R.id.direccionID);
+        googleMap.setOnMarkerClickListener(this);
 
 
         aceptarMapsActivity.setOnClickListener(new View.OnClickListener() {
@@ -154,6 +160,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 }
             }
         });
+
     }
 
     /**
@@ -193,5 +200,54 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     }
 
 
+    @Override
+    public boolean onMarkerClick(Marker marker) {
 
+        String name = marker.getTitle();
+        Edificio edificio = new Edificio();
+
+        try {
+            edificio = (Edificio) utils.txtParser.getEdificioOrFacultad(name,getApplicationContext());
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        AlertDialog dialogo = createImageDialog(edificio.getImage());
+        dialogo.show();
+        Window window = dialogo.getWindow();
+        window.setLayout(WindowManager.LayoutParams.WRAP_CONTENT, WindowManager.LayoutParams.WRAP_CONTENT);
+
+
+        return false;
+    }
+
+    public AlertDialog createImageDialog( String imgName) {
+        final AlertDialog builder = new AlertDialog.Builder(MapsActivity.this).create();
+
+        LayoutInflater inflater = MapsActivity.this.getLayoutInflater();
+
+        View v = inflater.inflate(R.layout.image_set, null);
+
+        builder.setView(v);
+
+        Button aceptar = (Button) v.findViewById(R.id.aceptarImagen);
+        ImageView imgview = (ImageView)  v.findViewById(R.id.imagenSeteada);
+
+
+        int id = getResources().getIdentifier(imgName, "drawable", getPackageName());
+        imgview.setImageResource(id);
+        aceptar.setOnClickListener(
+                new View.OnClickListener() {
+                    @Override
+                    public void onClick(View v) {
+                        builder.cancel();
+
+                    }
+                }
+        );
+
+
+
+        return builder;
+    }
 }
